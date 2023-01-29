@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">
-            💛 CX_AdminArea 💛
+            💛 AdminArea 💛
   </h1>
   <h3 align="center">
      Version 1.0
