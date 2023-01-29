@@ -21,7 +21,7 @@
  ### Installation
 
  Server.cfg :
- * start CX_AdminArea
+ * start AdminArea
  
 -----------------------------------------------------------  
 
