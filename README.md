@@ -1,12 +1,12 @@
 <p align="center">
   <h1 align="center">
-            💛 AdminArea 💛
+            💛 Cx_AdminArea 💛
   </h1>
   <h3 align="center">
      Version 1.0
   </h3>
   <h4 align="center">
-      Develop By ^Hekson#7961 
+      Develop By `Hekson-#6666 
   </h4>
 </p>
 
@@ -21,7 +21,7 @@
  ### Installation
 
  Server.cfg :
- * start AdminArea
+ * start Cx_AdminArea
  
 -----------------------------------------------------------  
 
