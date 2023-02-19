@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">
-            💛 Cx_AdminArea 💛
+            💛 CX_AdminArea 💛
   </h1>
   <h3 align="center">
      Version 1.0
@@ -21,7 +21,7 @@
  ### Installation
 
  Server.cfg :
- * start Cx_AdminArea
+ * start CX_AdminArea
  
 -----------------------------------------------------------  
 
